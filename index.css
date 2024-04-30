@@ -1,0 +1,30 @@
+span{
+    color: brown;
+    background-color: yellowgreen;
+    text-decoration: line-through;
+}
+
+h2{
+    color: beige;
+    background-color: aqua;
+    text-decoration: underline;
+}
+h3{
+    color: aquamarine;
+    background-color: black;
+}
+h1{
+    color: blueviolet;
+    background-color: aqua;
+}
+h4{
+    color: aquamarine;
+    background-color: azure;
+}
+#chap1{
+    background-color: black;
+    color: aliceblue;
+}
+::placeholder{
+    color: yellowgreen;
+}
